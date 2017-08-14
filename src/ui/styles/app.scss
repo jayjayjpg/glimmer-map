@@ -1,3 +1,13 @@
 h1 {
   color: #444;
 }
+
+#app > div,
+.glimmer-map {
+  height: 300px;
+}
+
+#map {
+  height: 100%;
+  width: 100%;
+}
